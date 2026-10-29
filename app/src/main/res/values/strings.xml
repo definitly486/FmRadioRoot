@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM Радио</string>
+    <string name="btn_seek_prev">◀◀</string>
+    <string name="btn_seek_next">▶▶</string>
+    <string name="btn_down">−0.1</string>
+    <string name="btn_up">+0.1</string>
+    <string name="btn_power_on">ВКЛ</string>
+    <string name="btn_power_off">ВЫКЛ</string>
+    <string name="speaker">Динамик</string>
+    <string name="volume">Громкость</string>
+    <string name="scan">Поиск станций</string>
+    <string name="scanning">Идёт поиск…</string>
+    <string name="fav_add">☆ В избранное</string>
+    <string name="fav_remove">★ Убрать</string>
+    <string name="log_title">Журнал (нажмите — скопировать)</string>
+</resources>
